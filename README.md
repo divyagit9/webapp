@@ -6,7 +6,6 @@ mvn3 clean package
 
 #Deploy instructiongvgvgj
 
-Deploy ```target/WebApp.war``` on Tomcat
 
 #TODO
  
